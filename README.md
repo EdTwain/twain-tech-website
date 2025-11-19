@@ -31,5 +31,3 @@ Twain.Tech is a modern, responsive landing page built to showcase AI-powered cus
 
 ---
 
-## 📁 Folder Structure
-
