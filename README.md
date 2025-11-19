@@ -1,1 +1,35 @@
-# twain-tech-website
+
+# Twain.Tech — AI-Powered Automation for Kenyan Businesses
+
+Twain.Tech is a modern, responsive landing page built to showcase AI-powered customer service solutions for SMEs. It promotes intelligent chatbots and automation tools for WhatsApp, call centers, websites, and email — helping businesses streamline support, boost sales, and deliver 24/7 customer experiences.
+
+## 🚀 Live Preview
+[Visit Twain.Tech](#) *(https://edtwain.github.io/twain-tech-website/)*
+
+---
+
+## ✨ Features
+
+- 🔥 Hero section with gradient-highlighted headline and CTA buttons
+- 📱 Responsive navbar with sticky behavior and active link styling
+- 🤖 Visual flowchart showcasing AI automation logic
+- 💬 “Why Choose Us” section with trust signals and benefits
+- 📦 Modular layout using Bootstrap 5 and semantic HTML
+- 🎨 Custom button styles with subtle hover transitions
+- 📞 Footer with contact info, social links, and service listings
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML5 + CSS3**
+- **Bootstrap 5**
+- **Font Awesome**
+- **Custom utility classes**
+- **Responsive grid system**
+- **Figma/Canva for design mockups**
+
+---
+
+## 📁 Folder Structure
+
